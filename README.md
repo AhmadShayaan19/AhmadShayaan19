@@ -94,15 +94,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AhmadShayaan19/AhmadShayaan19/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-<sub>✨ To activate this animation, add the <code>generate-snake.yml</code> GitHub Action from <a href="https://github.com/Platane/snk">Platane/snk</a> to this repo.</sub>
-</div>
-
----
 
 ### 🎓 Education
 
